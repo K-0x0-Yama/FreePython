@@ -1,2 +1,2 @@
 # FreePython
-自由なPython用
+更新
